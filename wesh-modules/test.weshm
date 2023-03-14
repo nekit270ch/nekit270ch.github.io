@@ -1,0 +1,4 @@
+#Test module
+
+func test, { writeln "I'm a module!" }
+cmd.fromFunc test, test
